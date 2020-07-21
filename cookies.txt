@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+hwansys.org	TRUE	/	FALSE	1999999999	PHPSESSID	db611c1466d60f14690be02065a3e7f1
+hwansys.org	TRUE	/	FALSE	1999999999	mobile	false
+hwansys.org	TRUE	/	FALSE	1999999999	user-agent	a46c089aa5634597cc265050ba58d8e1
+
